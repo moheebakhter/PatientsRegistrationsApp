@@ -5,7 +5,7 @@
 Full Assignment:-
 
 Github URL:-
- https://github.com/AmmarKotwal/PatientsRegistrationsApp.git
+https://github.com/moheebakhter/PatientsRegistrationsApp.git
 
 How To Open:-
 
